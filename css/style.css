@@ -27,3 +27,9 @@ h1 {
     margin: 5px 10px;
     font-size: 20px;
 }
+
+.dish-picture {
+    display: block;
+    margin: 20px 10px;
+    border: solid brown 3px;
+}
