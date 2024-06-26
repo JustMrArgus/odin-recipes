@@ -33,3 +33,19 @@ h1 {
     margin: 20px 10px;
     border: solid brown 3px;
 }
+
+.dish-recipe h2,
+.dish-recipe h3 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.dish-recipe ol,
+.dish-recipe ul {
+    margin-left: 30px;
+}
+
+.dish-recipe li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
