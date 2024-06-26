@@ -16,3 +16,14 @@ h1 {
     border-bottom: solid brown 3px;
     margin-bottom: 15px;
 }
+
+.nav-links {
+    list-style: none;
+    text-align: center;
+}
+
+.nav-link {
+    display: inline-block;
+    margin: 5px 10px;
+    font-size: 20px;
+}
